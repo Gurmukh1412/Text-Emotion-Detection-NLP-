@@ -9,7 +9,13 @@ This project classifies user input text into emotions such as:
 - 😡 Anger  
 - 😨 Fear  
 - 😍 Love  
-- 😲 Surprise  
+- 😲 Surprise
+
+---
+
+## 🚀 Live Demo
+
+🔗 Deployed App Link: **https://text-emotion-detection-nlp-00.streamlit.app/**
 
 ---
 
