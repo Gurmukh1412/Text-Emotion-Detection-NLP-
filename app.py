@@ -8,7 +8,7 @@ import altair as alt
 
 import joblib
 
-pipe_lr = joblib.load(open("C:\\Users\\Dell\\Desktop\\Text-Emotion-Detection\\Text Emotion Detection\\model\\text_emotion.pkl", "rb"))
+pipe_lr = joblib.load("model/text_emotion.pkl")
 
 emotions_emoji_dict = {"anger": "😠", "disgust": "🤮", "fear": "😨😱", "happy": "🤗", "joy": "😂", "neutral": "😐", "sad": "😔",
                        "sadness": "😔", "shame": "😳", "surprise": "😮"}
